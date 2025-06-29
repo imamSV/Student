@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+rom dataclasses import dataclass
 from enum import Enum
 
 class TyreType(Enum):
